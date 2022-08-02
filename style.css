@@ -238,15 +238,16 @@ nav {
         top: 75px;
         left: -100%;
         width: 100%;
-        height: 307px;
+        height: 304px;
         font-size: 20px;
         position: fixed;
         transition: 0.5s;
-        background-color: aqua;
+        border-top: 1px solid blue;
+        background-color: rgb(38, 38, 73);
     }
 
     .nav-link {
-        border: 1px solid blue;
+        border-bottom: 1px solid blue;
     }
 
     .nav-link:hover {
