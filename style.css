@@ -212,6 +212,10 @@ nav {
 
 
 @media (max-width:990px) {
+
+    .submit{
+        margin-top: 20px;
+    }
     .checkbtn {
         display: block;
         color: white;
