@@ -213,6 +213,10 @@ nav {
 
 @media (max-width:990px) {
 
+    .navbar-logo{
+        width: 70%;
+    }
+
     .submit{
         margin-top: 20px;
     }
